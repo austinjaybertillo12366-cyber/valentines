@@ -91,8 +91,9 @@ button{
 document.getElementById("yes").onclick = function(){
     document.getElementById("card").innerHTML = `
         <img src="angel.jpeg" alt="image">
-        <h1>I knew you'd say yes! 😍</h1>
-        <p>And yet they say I got no angel 😎</p>
+        <h1> Yeeeyyy Happy Valentines!</h1>
+        <p>And yet they say I don't have Angelina😎</p>
+        <h4>See you soon hihi</h4>
     `;
 }
 
